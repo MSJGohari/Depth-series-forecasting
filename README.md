@@ -1,6 +1,6 @@
 # Depth Series Forecasting
 
-This repository contains a deep learning framework for forecasting multi-modal well logs from geological depth series. The project focuses on robust evaluation and modeling of well log signals, addressing common issues in data imbalance across lithofacies.
+This repository presents a deep learning framework for forecasting multi-modal well logs across geological depth series. The project emphasizes robust evaluation and modeling techniques to address challenges such as lithofacies imbalance, limited data availability, and subsurface heterogeneity.
 
 ## 📘 Overview
 
